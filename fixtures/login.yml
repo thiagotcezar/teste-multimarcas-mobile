@@ -1,0 +1,41 @@
+# Login Fleury
+login_fleury:
+    cpf: '05161351470'
+    user: DANIELA.12198946CD
+    pass: '125120'
+
+# Login Instituto de Radiologia
+login_ir:
+    cpf: '48079120463'
+    user: JANAINA.17371599CD
+    pass: '934820'
+
+# Login Diagnoson
+login_diagnoson:
+    cpf: '01463824556'
+    user: ANGELICA.3626422CD
+    pass: '132720'
+  
+# Login Felippe Mattoso
+login_felippeMattoso:
+    cpf: '05537256703'
+    user: ELIANA.13436863CD
+    pass: '192120'
+
+# Login Weinmann
+login_weinmann:
+    cpf: '35263130082'
+    user: CALISTRATO.7648798CD
+    pass: '219920'
+
+# Login labs AMais
+login_labsAMais:
+    cpf: '37025589772'
+    user: CINTIA.9392877CD
+    pass: '532820'
+
+# Login AMais 
+login_AMais:
+    cpf: '05161351470'
+    user: DANIELA.12198946CD
+    pass: '125120'

@@ -1,0 +1,10 @@
+[caps]
+platformName = "iOS"
+platformVersion = "13.1"
+deviceName = "iPhone 7"
+app = "/Users/k2.thiago/Library/Developer/Xcode/DerivedData/Patients-dqnwjnxksdsrjkaplcbevcuypsie/Build/Products/Debug-iphonesimulator/Fleury.app"
+
+[appium_lib]
+server_url = "http://127.0.0.1:4723/wd/hub"
+sauce_username = ""
+sauce_access_key = ""
